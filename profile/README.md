@@ -4,8 +4,6 @@ GLCS helps transportation and logistics companies achieve their growth goals by 
 
 GLCS’ mission is to drive our clients’ people, processes, and technology to achieve best-in-class results.
 
-![primary-logo](https://user-images.githubusercontent.com/65432314/213935450-31dc1a04-611c-41d9-b70f-3632fb2522a4.png)
-
 [1]: https://www.globallcs.com/all-services
 [2]: https://www.globallcs.com/ams-frequently-asked-questions
 [3]: https://www.globallcs.com/managed-it-services
